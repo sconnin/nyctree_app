@@ -1,2 +1,2 @@
 # nyctree_app
-A web app to track the health status of NYC tree species. 
+A Dash-Plotly web app to track the health status of NYC tree species. Includes three interactive visualizations and descriptive text. Data drawn from NYC Open Data using Socrata API. The app currently deploys on local host. 
